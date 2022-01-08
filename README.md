@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**danisg97/danisg97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Dani 👋
 
-Here are some ideas to get you started:
+## About me 😄  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:office: I’m currently working on @E2y (Prev: @dxc-technology)  
+
+🌱 I’m currently learning:
+
+- Software architecture patterns
+
+- Best practices
+
+- Javascript technologies
+
+:bell: How to reach me:
+
+- https://www.linkedin.com/in/danielsanchezgracia/
+
+⚡ Hobbies:
+
+- Motorcycles
+
+- Arts
