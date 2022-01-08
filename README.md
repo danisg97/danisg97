@@ -14,6 +14,8 @@
 :bell: How to reach me:
 
 - https://www.linkedin.com/in/danielsanchezgracia/
+
 ⚡ Hobbies:
+
 - Motorcycles
 - Arts
