@@ -10,7 +10,7 @@
 - Software architecture patterns
 - Best practices
 - Javascript technologies
-- 
+
 :bell: How to reach me:
 
 - https://www.linkedin.com/in/danielsanchezgracia/
