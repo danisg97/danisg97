@@ -2,7 +2,7 @@
 
 ## About me 😄
 
-:office: I’m currently working on <a  href="https://github.com/e2y"  target="_blank">@E2y</a> (Prev: <a  href="https://github.com/dxc-technology"  target="_blank">@dxc-technology</a>)
+:office: I’m currently working on <a  href="https://github.com/e2y"  target="_blank">@e2y</a> (Prev: <a  href="https://github.com/dxc-technology"  target="_blank">@dxc-technology</a>)
 
 🌱 I’m currently learning:
 
